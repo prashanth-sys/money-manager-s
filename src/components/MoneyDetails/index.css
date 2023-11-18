@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.amount-container {
+  display: flex;
+  flex-direction: row;
+}
+.balance-container {
+  display: flex;
+  flex-direction: column;
+}
+.image {
+  width: 10px;
+}
